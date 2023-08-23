@@ -1,0 +1,2 @@
+# kalkulatora-repo
+Kalkulators
